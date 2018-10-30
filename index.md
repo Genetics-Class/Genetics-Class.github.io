@@ -1,2 +1,2 @@
-## Welcome to The Genetics Class!
+## Welcome to Mendel's Corner!
 
