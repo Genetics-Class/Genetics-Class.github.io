@@ -15,6 +15,7 @@ Each post will describe a specific topic about genetics, each building on the la
     - *Lab: Sickle Cell Electrophoresis*
   - Odd Chromosome Numbers
   - Trait Expression
+  - Epigenetics: More Than Surface Level
   - Sex And Genetics
     - *Lab: Barr Bodies*
  
