@@ -20,6 +20,7 @@ Each post will describe a specific topic about genetics, each building on the la
     - *Lab: Barr Bodies*
 - **Unit X: Unsorted Lessons**
   - The Anatomy of A Cell
+  - Enzymes and Substrates
   - Solution Concentration and Cell Explosion
   - Testing Babies: Getting Embryonic DNA
  
