@@ -15,9 +15,10 @@ Each post will describe a specific topic about genetics, each building on the la
     - *Lab: Sickle Cell Electrophoresis*
   - Odd Chromosome Numbers
   - Trait Expression
-  - Epigenetics: More Than Surface Level
   - Sex And Genetics
     - *Lab: Barr Bodies*
+  - Linkage: Not Independent After All
+  - Epigenetics: More Than Surface Level
 - **Unit X: Unsorted Lessons**
   - The Anatomy of A Cell
   - Enzymes and Substrates
