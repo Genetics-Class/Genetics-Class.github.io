@@ -19,6 +19,7 @@ Each post will describe a specific topic about genetics, each building on the la
     - *Lab: Barr Bodies*
   - Linkage: Not Independent After All
   - Epigenetics: More Than Surface Level
+    - *Lab: Sordaria Linkage* 
 - **Unit X: Unsorted Lessons**
   - The Anatomy of A Cell
   - Enzymes and Substrates
