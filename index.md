@@ -22,9 +22,11 @@ Each post will describe a specific topic about genetics, each building on the la
     - *Lab: Sordaria Linkage* 
 - **Unit X: Unsorted Lessons**
   - The Anatomy of A Cell
+  - How DNA Becomes Protein
   - Enzymes and Substrates
   - Solution Concentration and Cell Explosion
   - Testing Babies: Getting Embryonic DNA
+  - Useful Genetics Resources
  
 
 
