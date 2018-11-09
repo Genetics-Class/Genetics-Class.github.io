@@ -24,6 +24,7 @@ Each post will describe a specific topic about genetics, each building on the la
   - The Anatomy of A Cell
   - How DNA Becomes Protein
   - Enzymes and Substrates
+  - Nucleic Acid Invasion: Viruses 
   - Solution Concentration and Cell Explosion
   - Testing Babies: Getting Embryonic DNA
   - Useful Genetics Resources
